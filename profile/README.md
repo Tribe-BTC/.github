@@ -1,3 +1,3 @@
-## Tribe BTC
+## Tribe 
 
 Publicly Auditable Cooperatives on Bitcoin
