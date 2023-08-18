@@ -1,3 +1,3 @@
 # Tribe BTC
 
-DAO for Ordinals, Bitcoin companies and more
+Publicly Auditable Cooperatives on Bitcoin
