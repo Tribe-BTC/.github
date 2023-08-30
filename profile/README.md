@@ -8,4 +8,4 @@ TBA
 
 ## Initial concept
 
-This is only our initial concept with [website](tribebtc.com)
+This is only our initial concept with [website](www.tribebtc.com/)
