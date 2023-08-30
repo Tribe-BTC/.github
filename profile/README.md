@@ -8,4 +8,4 @@ TBA
 
 ## Initial concept
 
-This is only our initial concept with [UI](https://github.com/Tribe-BTC/tribe-ui)
+This is only our initial concept with [website](tribebtc.com)
