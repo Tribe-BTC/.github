@@ -18,7 +18,7 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 
 ## Initial concept
 
-This is our initial concept [website](https://www.tribebtc.com/onboard.html)
+This is our initial concept [website](https://tribebtc.com/dhonboard.html)
 
 The code of the application is closed source as the business is being rolled out. This github includes the core foundation of the tech for bitpacs that will always be open source.
 
