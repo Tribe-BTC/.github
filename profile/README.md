@@ -18,5 +18,5 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 
 ## Code
 
-The full code of the application is closed source as the business is being rolled out. This github includes the [core foundation](https://github.com/Tribe-BTC/tribe-core) of the tech for bitpacs that will always be open source.
+This github includes the [core foundation](https://github.com/Tribe-BTC/tribe-core) of the tech for bitpacs that will always be open source.
 
