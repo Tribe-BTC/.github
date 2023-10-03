@@ -18,7 +18,7 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 
 ## Code
 
-This github includes the [core foundation](https://github.com/Tribe-BTC/tribe-core) of the tech for bitpacs that will always be open source.
+- Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as first idea on Tribe and where we won bounty about Bitcoin DAO native
 
 ## Website
 
