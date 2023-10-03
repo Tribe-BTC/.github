@@ -18,7 +18,7 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 
 ## Code
 
-- Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as first idea on Tribe and where [we won bounty about Bitcoin DAO native](https://github.com/OrdinalMaxiBiz/bounties/issues/9)
+- Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as an idea on Tribe and where [we won bounty about Bitcoin DAO native](https://github.com/OrdinalMaxiBiz/bounties/issues/9)
 - We're creating our MVP, stay tuned!
 
 ## Website
