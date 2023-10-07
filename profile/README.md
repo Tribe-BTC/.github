@@ -16,7 +16,7 @@ Bitpac participants can be selected in various ways, through assets they hold, t
 
 In the future we plan to upgrade and improve the tooling and ability of this tech through the integration of DLCs, Lightning, Nostr, and more. Tribe will always be bitcoin only and aims to push the capability of on-chain organization and governance forward.
 
-## Code
+## Products
 
 - Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as an idea on Tribe and where [we won bounty about Bitcoin DAO native](https://github.com/OrdinalMaxiBiz/bounties/issues/9)
 - We're creating our MVP, stay tuned!
