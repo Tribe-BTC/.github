@@ -22,4 +22,4 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 
 ## Website
 
-[Tribe](https://tribebtc.com/create-tribe) - Tribe demo website with Nostr, Bitcoin address and Xverse function 
+[Tribe](https://tribebtc.com/create-tribe) - Tribe demo website with Nostr and Bitcoin address function 
