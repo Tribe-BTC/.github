@@ -19,7 +19,5 @@ In the future we plan to upgrade and improve the tooling and ability of this tec
 ## Products
 
 - Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as an idea on Tribe and where [we won bounty about Bitcoin DAO native](https://github.com/OrdinalMaxiBiz/bounties/issues/9)
-
-## Website
-
-[Tribe](https://tribebtc.com/create-tribe) - Tribe demo website with Nostr and Bitcoin address function 
+- [Frost in JS](https://github.com/Tribe-BTC/frost-js) - First Javascript Library from Frost on Bitcoin space and WIP
+- [Tribe](https://tribebtc.com/create-tribe) - Tribe demo website with Nostr and Bitcoin address function 
