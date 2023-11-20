@@ -14,10 +14,4 @@ A bitpac is essentially a multisig. Traditional multisigs are usually private, p
 
 Bitpac participants can be selected in various ways, through assets they hold, through profiles from nostr, through wallet submissions, etc. A new bitpac establishes a threshold of how many votes are needed to generate a transaction, this could be moving treasury funds, purchasing an asset, distruting payments, etc. Bitpac participants can generate proposals, submit votes, and effect action in the groups multisig, creating the foundational experience of a DAO, completely using bitcoin.
 
-In the future we plan to upgrade and improve the tooling and ability of this tech through the integration of DLCs, Lightning, Nostr, and more. Tribe will always be bitcoin only and aims to push the capability of on-chain organization and governance forward.
-
-## Products
-
-- Our first [PoC](https://github.com/Tribe-BTC/tribe-core) used as an idea on Tribe and where [we won bounty about Bitcoin DAO native](https://github.com/OrdinalMaxiBiz/bounties/issues/9)
-- [Frost in JS](https://github.com/Tribe-BTC/frost-js) - First Javascript Library from Frost on Bitcoin space and WIP
-- [Tribe](https://tribebtc.com/create-tribe) - Tribe demo website with Nostr and Bitcoin address function 
+In the future we plan to upgrade and improve the tooling and ability of this tech through the integration of Frost, Lightning, and more. Tribe will always be bitcoin only and aims to push the capability of on-chain organization and governance forward.
